@@ -1,0 +1,18 @@
+<Project Sdk="Dalamud.NET.Sdk/15.0.0">
+  <PropertyGroup>
+    <Version>1.4.1.0</Version>
+    <Author>Action Timer</Author>
+    <Name>Action Timer</Name>
+    <InternalName>ActionTimer</InternalName>
+    <Punchline>ジョブ別のアビリティクールタイムを表示します。</Punchline>
+    <Description>日本語でアビリティを選択し、位置とサイズを個別設定できるクールタイム表示。</Description>
+    <AllowUnsafeBlocks>true</AllowUnsafeBlocks>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+  </PropertyGroup>
+</Project>
+
+
+
+
+

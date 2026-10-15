@@ -1,0 +1,8 @@
+C:\Users\t-k3-\Documents\Codex\2026-10-15\da\outputs\ActionTimer\obj\Release\ActionTimer.csproj.AssemblyReference.cache
+C:\Users\t-k3-\Documents\Codex\2026-10-15\da\outputs\ActionTimer\obj\Release\ActionTimer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\t-k3-\Documents\Codex\2026-10-15\da\outputs\ActionTimer\obj\Release\ActionTimer.AssemblyInfoInputs.cache
+C:\Users\t-k3-\Documents\Codex\2026-10-15\da\outputs\ActionTimer\obj\Release\ActionTimer.AssemblyInfo.cs
+C:\Users\t-k3-\Documents\Codex\2026-10-15\da\outputs\ActionTimer\obj\Release\ActionTimer.csproj.CoreCompileInputs.cache
+C:\Users\t-k3-\Documents\Codex\2026-10-15\da\outputs\ActionTimer\bin\Release\ActionTimer.deps.json
+C:\Users\t-k3-\Documents\Codex\2026-10-15\da\outputs\ActionTimer\bin\Release\ActionTimer.dll
+C:\Users\t-k3-\Documents\Codex\2026-10-15\da\outputs\ActionTimer\obj\Release\ActionTimer.dll
